@@ -19,4 +19,4 @@ mraya
 
 
 ![OpenMindsClub][logo]
-![logo]: [http://openmindsclub.net/images/logo.png]
+![logo]:[http://openmindsclub.net/images/logo.png]
