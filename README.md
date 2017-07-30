@@ -18,5 +18,4 @@ mraya
 ------
 
 
-![OpenMindsClub][logo]
-![logo]:[http://openmindsclub.net/images/logo.png]
+![OpenMindsClub](http://openmindsclub.net/images/logo.png)
