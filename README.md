@@ -12,5 +12,10 @@ From your favorite terminal emulator :
 ```bash 
 mraya
 ```
-![OpenMindsClub][omc]
-[omc]: [http://openmindsclub.net/images/logo.png]
+
+
+
+
+
+From :
+![OpenMindsClub][http://openmindsclub.net/images/logo.png] 
