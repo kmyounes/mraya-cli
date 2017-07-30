@@ -13,3 +13,4 @@ From your favorite terminal emulator :
 mraya
 ```
 
+![omc][http://openmindsclub.net/images/logo.png]
